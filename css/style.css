@@ -46,6 +46,11 @@ thead>tr:first-child{
 }
 
 p{
-    
+    text-align: justify;
+    text-indent: 15px;
+}
+
+table{
+    text-transform: uppercase;
 }
 
